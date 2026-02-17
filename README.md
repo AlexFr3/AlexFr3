@@ -10,7 +10,7 @@
   <a href="https://linkedin.com/in/alex-frisoni-3bb519251" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="mailto:alex@example.com" target="_blank">
+  <a href="mailto:alex.frisoni2@studio.unibo.it" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" height="30" width="40" />
   </a>
 </p>
@@ -30,16 +30,15 @@
 
 <h3 align="left">GitHub Stats:</h3>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=alexfr3&show_icons=true&theme=dark&count_private=true&hide_border=true" alt="GitHub Stats" />
-</p>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexfr3&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</p>
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alexfr3&theme=dark" alt="GitHub Streak" />
-</p>
+  <!-- GitHub Overall Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=AlexFr3&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" />
 
-<h3 align="left">Activity Graph:</h3>
-<p align="left">
-  <img src="https://activity-graph.herokuapp.com/graph?username=alexfr3&theme=react-dark" alt="GitHub Activity Graph" />
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexFr3&layout=compact&theme=radical" alt="Top Languages" />
 </p>
+<!-- GitHub Streak -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexFr3&theme=radical" alt="GitHub Streak" />
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=AlexFr3&theme=react-dark" alt="GitHub Activity Graph" />
+
