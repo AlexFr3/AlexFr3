@@ -31,7 +31,8 @@
 <h3 align="left">GitHub Stats:</h3>
 <p align="left">
   <!-- GitHub Overall Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=AlexFr3&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" />
 
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexFr3&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
