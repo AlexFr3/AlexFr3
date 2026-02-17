@@ -33,12 +33,5 @@
   <!-- GitHub Overall Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=AlexFr3&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" />
 
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexFr3&layout=compact&theme=radical" alt="Top Languages" />
 </p>
-<!-- GitHub Streak -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexFr3&theme=radical" alt="GitHub Streak" />
-
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=AlexFr3&theme=react-dark" alt="GitHub Activity Graph" />
 
