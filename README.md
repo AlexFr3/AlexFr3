@@ -28,13 +28,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
 </p>
 
-<h3 align="left">GitHub Stats:</h3>
 
 <h3 align="left">GitHub Streak & Activity:</h3>
 <p align="left">
   <!-- Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexFr3&theme=radical" alt="GitHub Streak" />
-
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=AlexFr3&theme=react-dark" alt="GitHub Activity Graph" />
 </p>
