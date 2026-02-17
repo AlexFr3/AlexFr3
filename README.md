@@ -2,7 +2,7 @@
 <h3 align="center">Computer Engineering student, passionate about programming, algorithms, and building projects</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=alexfr3&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=AlexFr3&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 <h3 align="left">Connect with me:</h3>
@@ -30,9 +30,18 @@
 
 <h3 align="left">GitHub Stats:</h3>
 <p align="left">
-  <!-- GitHub Overall Stats -->
+  <!-- Overall Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=AlexFr3&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" />
 
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexFr3&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
+<h3 align="left">GitHub Streak & Activity:</h3>
+<p align="left">
+  <!-- Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexFr3&theme=radical" alt="GitHub Streak" />
+
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=AlexFr3&theme=react-dark" alt="GitHub Activity Graph" />
+</p>
