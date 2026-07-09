@@ -1,8 +1,3 @@
-
-# Project Title
-
-A brief description of what this project does and who it's for
-
 <div align="center">
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:6D28D9,100:7C3AED&height=220&section=header&text=Alex&fontSize=70&fontColor=EDE9FE&animation=twinkling&fontAlignY=35&desc=Junior%20Software%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=55&descSize=18&descColor=C4B5FD)
