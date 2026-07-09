@@ -102,6 +102,7 @@ Knowledge of `C`, `C++`, `C#`, `Java`, `Python`, `JavaScript`, `PHP`, `Flutter`,
 
 ---
 -->
+<!--
 ### GitHub Analytics
 
 <div align="center">
@@ -112,7 +113,7 @@ Knowledge of `C`, `C++`, `C#`, `Java`, `Python`, `JavaScript`, `PHP`, `Flutter`,
 </div>
 
 ---
-<!--
+
 ### GitHub Trophies
 
 <div align="center">
